@@ -1,6 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1400/0*goaFvkjpQM-0p0h6.)
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit0603&label=Profile%20views&color=0e75b6&style=flat" alt="ankit0603" /> </p>
 
